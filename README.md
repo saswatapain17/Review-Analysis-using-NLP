@@ -6,8 +6,9 @@ A sentiment analysis project using a Naive Bayes classifier to analyze movie rev
  ## Usage
 1. Prepare your dataset (a2_RestaurantReviews_FreshDump.tsv).
 2. Run the preprocessing script to tokenize, lemmatize, and split the data.
-3. Train the Naive Bayes classifier.
-4. Evaluate the model's performance on the testing data.
+3. Use Bag of words 
+4. Train the Naive Bayes classifier.
+5. Evaluate the model's performance on the testing data.
 ## Data Preprocessing
 - Tokenization: Splitting reviews into individual words.
 - Lemmatization: Reducing words to their base form (e.g., "running" to "run").
